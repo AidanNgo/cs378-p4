@@ -1,0 +1,44 @@
+#time-temp{
+    margin-top: 5%;
+    margin-left: 7px;
+}
+
+#search-bar{
+    margin-top: 40px;
+    margin-left: 7px;
+}
+
+#buttons-general{
+    margin-top: 20px;
+}
+
+.button{
+    border-radius: 20px;
+    margin: 7px;
+}
+
+.button:hover{
+    background-color: blue;
+    color: white;
+}
+
+#add-button{
+    margin-left: 7px;
+}
+
+#add-button:hover{
+    background-color: blue;
+    color: white;
+}
+
+.active {
+    border-radius: 20px;
+    margin: 7px;
+    background-color: burlywood;
+    color: white;
+  }
+
+#clear-all-button{
+    padding: 0;
+    margin: 0;
+}
